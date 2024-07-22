@@ -1,5 +1,7 @@
 Main repo grading: [![Autograding](https://github.com/YoussefElserougi/forker/actions/workflows/classroom.yml/badge.svg)](https://github.com/YoussefElserougi/forker/actions/workflows/classroom.yml)
 
+Student Repo: [![Autograding](https://github.com/${{ github.repository_owner }}/${{ github.repository }}/actions/workflows/classroom.yml/badge.svg)](https://github.com/${{ github.repository_owner }}/${{ github.repository }}/actions/workflows/classroom.yml)
+
 # Palindrome Permutation Assignment
 
 ## Problem Description
